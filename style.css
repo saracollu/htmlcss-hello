@@ -1,56 +1,97 @@
-header {
+*{
+    margin:3px ;
+    padding:0 ;
+    box-sizing: border-box ;
+}
 
+
+
+header {
+    margin:0px ;
+    padding:10px ;
+    box-sizing: border-box ;
+    font-size:10px ;
 }
 
 /* DIPINTO */
 
 .dipinto {
-
+    margin:10px ;
+    padding:0 ;
+    box-sizing: border-box ;
 }
 
 .titolo-dipinto {
-
+    margin:0 ;
+    padding:0 ;
+    box-sizing: border-box ;
+    font-size: medium;
+    font-weight: bold;
+    line-height: 30px;
 }
 
-.descrizone1 {
-
+.descrizione1 {
+    margin:10px ;
+    padding:0 ;
+    box-sizing: border-box ;
+    font-size: xx-small;
 }
 
 .descrizione2 {
-
+    margin:0 ;
+    padding:0 ;
+    font-size: smaller;
 }
 
 /*STATUA*/
 
 .statua {
-
+    margin:10px ;
+    padding:0 ;
+    box-sizing: border-box ;
 }
 
 .titolo-statua {
-
+    margin:0 ;
+    padding:3px;
+    font-weight: bold;
+    line-height: 30px;
 }
 
 .descrizione3 {
-
+    margin:10px ;
+    padding:0 ;
+    box-sizing: border-box ;
+    font-size: xx-small;
 }
 
 .descrizione4 {
-
+    margin:0 ;
+    padding:0 ;
+    font-size: smaller;
 }
 
 
 /* RIEPILOGO*/
 
 .riepilogo {
-
+    margin:0 ;
+    padding:0 ;
+    box-sizing: border-box ;
 }
+  .titolo-riepilogo {font-weight: bold;
+}  
 
 .punti-riepilogo {
-
+    margin:0 ;
+    padding:0 ;
+    box-sizing: border-box ;
 }
 
 /* FONDO PAGINA */
 
 footer {
-    
+    margin:0 ;
+    padding:0 ;
+    box-sizing: border-box ;
 }
